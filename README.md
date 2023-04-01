@@ -14,5 +14,5 @@ Git Hub Link : https://github.com/TejaswiPasupuleti/Machine_Learning/blob/main/M
 Drive Link :
 https://drive.google.com/file/d/1Uc8uPaMs476pVbhzP0jLYfb2_xX9_xdX/view?usp=share_link
  
-Assignment 02 :
-Git Hub Link : 
+Assignment 03 :
+Git Hub Link : https://github.com/TejaswiPasupuleti/Machine_Learning/blob/main/Machine_Learning_Assignment_03.ipynb
